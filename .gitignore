@@ -1,4 +1,8 @@
+virtualenv.py
 *.pyc
 .DS_Store
-personal_syte_settings.py
 venv
+syte/static/css
+syte/static/js/min
+syte/personal_syte_settings.py
+profiles-multiple columns test.less
